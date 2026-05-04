@@ -1,0 +1,36 @@
+Static DQN:
+Episode 0, Reward: -1.02, Epsilon: 1.00
+Episode 50, Reward: 0.87, Epsilon: 0.01
+Episode 100, Reward: 0.87, Epsilon: 0.01
+Episode 150, Reward: 0.92, Epsilon: 0.01
+Episode 200, Reward: 0.94, Epsilon: 0.01
+Episode 250, Reward: 0.94, Epsilon: 0.01
+Episode 300, Reward: 0.94, Epsilon: 0.01
+Episode 350, Reward: 0.94, Epsilon: 0.01
+Episode 400, Reward: 0.93, Epsilon: 0.01
+Episode 450, Reward: 0.94, Epsilon: 0.01
+Episode 500, Reward: 0.94, Epsilon: 0.01
+Double DQN:
+Episode 0, Reward: -0.50, Epsilon: 0.91
+Episode 50, Reward: 0.94, Epsilon: 0.01
+Episode 100, Reward: 0.98, Epsilon: 0.01
+Episode 150, Reward: 0.96, Epsilon: 0.01
+Episode 200, Reward: 0.92, Epsilon: 0.01
+Episode 250, Reward: 0.94, Epsilon: 0.01
+Episode 300, Reward: 0.91, Epsilon: 0.01
+Episode 350, Reward: 0.99, Epsilon: 0.01
+Episode 400, Reward: 0.93, Epsilon: 0.01
+Episode 450, Reward: 0.99, Epsilon: 0.01
+Episode 500, Reward: 0.94, Epsilon: 0.01
+Dueling DQN:
+Episode 0, Reward: -0.50, Epsilon: 0.91
+Episode 50, Reward: 0.95, Epsilon: 0.01
+Episode 100, Reward: -0.50, Epsilon: 0.01
+Episode 150, Reward: 1.00, Epsilon: 0.01
+Episode 200, Reward: 1.00, Epsilon: 0.01
+Episode 250, Reward: 0.97, Epsilon: 0.01
+Episode 300, Reward: 0.97, Epsilon: 0.01
+Episode 350, Reward: 0.95, Epsilon: 0.01
+Episode 400, Reward: 0.95, Epsilon: 0.01
+Episode 450, Reward: 0.97, Epsilon: 0.01
+Episode 500, Reward: 0.95, Epsilon: 0.01
